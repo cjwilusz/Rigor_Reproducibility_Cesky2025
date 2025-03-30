@@ -53,6 +53,8 @@ to Fix Them)](Assets/PDF/Wicherts2017.pdf)
 * [The p-hackers toolkit](https://sciencebasedmedicine.org/the-p-hackers-toolkit/)
 * [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here’s How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
 * [Charles University Open Science Support](https://openscience.cuni.cz/OSCIEN-1.html)
+* [8 types of research bias and how to avoid them](https://www.appinio.com/en/blog/market-research/research-bias#How%20to%20Avoid%20Research%20Bias?)
+  
   
 
 
