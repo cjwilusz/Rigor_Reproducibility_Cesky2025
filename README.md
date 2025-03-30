@@ -44,11 +44,15 @@ _Take a look at the HARKing part_
 * [Josh Starmer StatQuest Video Collection](https://www.youtube.com/@statquest)  
 * [WebPower Power Analysis Tool](https://rdrr.io/cran/WebPower/)  
 
-#### Some additional reading materials
+#### Some additional reading materials and resources
 * [The Texas sharpshooter fallacy](Assets/PDF/Evers2017.pdf)  
 * [When Does HARKing Hurt? Identifying When Different Types of
 Undisclosed Post Hoc Hypothesizing Harm Scientific Progress](Assets/PDF/rubin-2017.pdf)
 * [The Weak Spots in Contemporary Science (and How
-to Fix Them)](Assets/PDF/Wicherts2017.pdf)  
+to Fix Them)](Assets/PDF/Wicherts2017.pdf)
+* [The p-hackers toolkit](https://sciencebasedmedicine.org/the-p-hackers-toolkit/)
+* [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here’s How.](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
+* [Charles University Open Science Support](https://openscience.cuni.cz/OSCIEN-1.html)
+  
 
 
