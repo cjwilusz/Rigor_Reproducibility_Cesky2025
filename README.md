@@ -25,7 +25,7 @@ _During the meeting we will discuss these topics, why they are bad practice, how
 #### Some common p-hacks
 _Pick one of the below examples and watch the video to learn what it is and why it is bad_
 * [Dropping Conditions](https://youtu.be/u_jxEpQsOfI?si=PYgA7QzKI0WNnFpm&t=61)
-* [Selective Stopping](https://youtu.be/qO57DH8gG9Q?si=tUKcr0Wb5Uue35T9&t=43) - aka data peeking  
+* [Selective Stopping](https://youtu.be/qO57DH8gG9Q?si=tUKcr0Wb5Uue35T9&t=43) - aka data peeking [see here also](https://youtu.be/HDCOUXE3HMM?si=dZUvf3UUqbDRFlqk&t=532)  
 * [Covariate Misuse](https://youtu.be/kGM2jT60SiE?si=powcGFryLCxv3L4W&t=95)- see also Correlation is not Causation above!
 * [Multiple Measures](https://youtu.be/jiXmVjJTSmM?si=g9etZtGnMg5HbZSv&t=70)  
 
