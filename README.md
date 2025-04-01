@@ -6,7 +6,7 @@ _Before we meet on April 1, please take 20-30 min to watch some videos and learn
 
 _During the meeting we will discuss these topics, why they are bad practice, how publication bias encourages these practices and how YOU can do better!_
 
-
+[Download Slides](Assets/Questionable%20Research%20Practices%20and%20Publication%20Bias.pptx)
 ## P-hacking, HARKing and Publication Bias
 
 ### P-hacking
