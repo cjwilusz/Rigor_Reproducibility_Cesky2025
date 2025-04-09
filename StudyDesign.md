@@ -10,13 +10,14 @@ Reproducible experiments start with rigorous design:
 _Before class please take a look at the material below on bias in research_
 
 * [Catalog of Bias](https://catalogofbias.org/) Look up one or two types of bias from the list below and think about whether these could be influencing your experiments  
-** [Data dredging bias](https://catalogofbias.org/biases/data-dredging bias/)  
+** [Data dredging bias](https://catalogofbias.org/biases/data-dredging-bias/)  
   ** [Detection bias](https://catalogofbias.org/biases/detection-bias/)  
   ** [Hot Stuff Bias](https://catalogofbias.org/biases/hot-stuff-bias/)  
   ** [Selection Bias](https://catalogofbias.org/biases/selection-bias/)  
   ** [Observer Bias](https://catalogofbias.org/biases/observer-bias/)  
   ** [Confirmation Bias](https://catalogofbias.org/biases/confirmation-bias/)
 
+<img src="Assets/img/biastable.png">
   * [Stop Fooling Yourself! (Diagnosing and treating Confirmation Bias)](https://doi.org/10.1523/ENEURO.0415-24.2024)
   
   
