@@ -23,7 +23,7 @@ This table is from [Stop Fooling Yourself! Diagnosing and treating Confirmation 
 
 ## Power and Sample Size
 Some resources for the future (we will go through when we meet)
-* [Nature Points of Significance on Power & Sample Size](/Assets/PDF/Nature_PoS_PowerAnalysis.PDF)
+* [Nature Points of Significance on Power & Sample Size](/Assets/PDF/Nature_PoS_PowerAnalysis.pdf)
 * 
   
   
