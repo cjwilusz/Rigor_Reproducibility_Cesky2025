@@ -13,7 +13,7 @@ _Before we meet please take a look at the material below on bias in research_
 
 **Come prepared to discuss what factors cause bias in your own experiments!**  
 
-_When we meet we will discuss the following (no preparation required but feel free to look at the material_ 
+_When we meet we will discuss the following (no preparation required but feel free to look at the material)_ 
 
 Reproducible experiments start with rigorous and UNBIASED design:    
 ### Power and Sample Size  
