@@ -1,33 +1,27 @@
-#### Study Design
-
-Reproducible experiments start with rigorous design:  
-(1) The sample size should be large enough to detect the predicted effect.  
-(2) Samples should be assigned to different treatments randomly such that confounding effects of biological or procedural variation are minimized.  
-(3) Data should be collected and analysed in such a way that researcher bias does not influence the outcome (especially if data collection is subjective).  
+## Study Design
 
 **We will discuss different types of bias, how they impact reproducibility and how to mitigate such effects.  We will also discuss how to determine an appropriate sample size**  
 
-_Before we meet please take a look at the material below on bias in research_
+_Before we meet please take a look at the material below on bias in research_  
 
-* [Catalog of Bias](https://catalogofbias.org/) Look up one or two types of bias from the list below and think about how these could be influencing your experiments  
-   * [Data dredging bias](https://catalogofbias.org/biases/data-dredging-bias/)  _this is related to the p-hacking we talked about last time_  
-   * [Detection bias](https://catalogofbias.org/biases/detection-bias/)  
-   * [Hot Stuff Bias](https://catalogofbias.org/biases/hot-stuff-bias/)  
-   * [Selection Bias](https://catalogofbias.org/biases/selection-bias/)  
-   * [Observer Bias](https://catalogofbias.org/biases/observer-bias/)  
-   * [Confirmation Bias](https://catalogofbias.org/biases/confirmation-bias/)
+**Read a short article** about [Confirmation Bias](https://www.wilsonquarterly.com/quarterly/_/sciences-under-discussed-problem-with-confirmation-bias).  
 
-This table is from [Stop Fooling Yourself! Diagnosing and treating Confirmation Bias](https://doi.org/10.1523/ENEURO.0415-24.2024).  It defines a few different types of bias that can get in the way of good practice!
+**Look up one or two types of bias** in the [Catalog of Bias](https://catalogofbias.org/biases) and think about how these could be influencing your experiments.    
 
+**Take a look at this table from** [Stop Fooling Yourself! Diagnosing and treating Confirmation Bias](https://doi.org/10.1523/ENEURO.0415-24.2024).  It defines a several types of bias that can get in the way of good practice!  
 <img src="Assets/img/BiasTable.png">  
 
-## Power and Sample Size
-Some resources for the future (we will go through when we meet)
-* [Nature Points of Significance on Power & Sample Size](/Assets/PDF/Nature_PoS_PowerAnalysis.pdf)
+**Come prepared to discuss what factors cause bias in your own experiments!**  
 
-## Randomization and Blinding
-Resources
-[Randomization & Blinding of Biomedical Experiments](https://premier-qms.org/premier/planning-of-experiments/randomisation-and-blinding)
+_When we meet we will discuss the following (no preparation required but feel free to look at the material_ 
 
-  
-  
+Reproducible experiments start with rigorous and UNBIASED design:    
+### Power and Sample Size  
+* The sample size should be large enough to detect the predicted effect.  
+* [Nature Points of Significance on Power & Sample Size](/Assets/PDF/Nature_PoS_PowerAnalysis.pdf)  
+
+### Randomization and Blinding  
+* Samples should be assigned to different treatments randomly such that confounding effects of biological or procedural variation are minimized.   
+* Data should be collected and analysed in such a way that researcher bias does not influence the outcome (especially if data collection is subjective).   
+* [Randomization & Blinding of Biomedical Experiments](https://premier-qms.org/premier/planning-of-experiments/randomisation-and-blinding)  
+
