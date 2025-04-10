@@ -4,7 +4,7 @@
 
 _Before we meet please take a look at the material below on bias in research_  
 
-**Read a short article** about [Confirmation Bias](https://www.wilsonquarterly.com/quarterly/_/sciences-under-discussed-problem-with-confirmation-bias).  
+**Read a short article** about [Confirmation Bias](https://www.wilsonquarterly.com/quarterly/_/sciences-under-discussed-problem-with-confirmation-bias) or **a more in depth article** discussing [bias in microscopy](https://journals.biologists.com/jcs/article/137/1/jcs261567/341218/Believing-is-seeing-the-deceptive-influence-of) 
 
 **Look up one or two types of bias** in the [Catalog of Bias](https://catalogofbias.org/biases) and think about how these could be influencing your experiments.    
 
