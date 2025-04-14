@@ -10,7 +10,8 @@ _During the meeting we will discuss these topics, why they are bad practice, how
 ## P-hacking, HARKing and Publication Bias
 
 ### P-hacking
-"When engaging in p-hacking, researchers are assumed to explore different data analysis options in a trial and error fashion, fishing for ‘publishable’ statistically significant findings with little regard to the theoretical underpinnings of their research. This iterative testing procedure only ends once the researcher has obtained their desired result or has run out of creativity or patience" [Stefan & Schonbrodt 2023](https://royalsocietypublishing.org/doi/10.1098/rsos.220346)
+"When engaging in p-hacking, researchers are assumed to explore different data analysis options in a trial and error fashion, fishing for ‘publishable’ statistically significant findings with little regard to the theoretical underpinnings of their research. This iterative testing procedure only ends once the researcher has obtained their desired result or has run out of creativity or patience" [Stefan & Schonbrodt 2023](https://royalsocietypublishing.org/doi/10.1098/rsos.220346)  
+
 Here's a [fun game](https://shinyapps.org/apps/p-hacker/) to hone your p-hacking skills!
 
 #### Food tastes better if you pay more for it:
