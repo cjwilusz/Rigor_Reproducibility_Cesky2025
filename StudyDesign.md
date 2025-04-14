@@ -6,7 +6,9 @@ _Before we meet please take a look at the material below on bias in research_
 
 **Read a short article** about [Confirmation Bias](https://www.wilsonquarterly.com/quarterly/_/sciences-under-discussed-problem-with-confirmation-bias) or **a more in depth article** discussing [bias in microscopy](https://journals.biologists.com/jcs/article/137/1/jcs261567/341218/Believing-is-seeing-the-deceptive-influence-of) 
 
-**Look up one or two types of bias** in the [Catalog of Bias](https://catalogofbias.org/biases) and think about how these could be influencing your experiments.    
+**Look up one or two types of bias** in the [Catalog of Bias](https://catalogofbias.org/biases) and think about how these could be influencing your experiments.  
+
+**Try [this quick test](https://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html)**  
 
 **Take a look at this table from** [Stop Fooling Yourself! Diagnosing and treating Confirmation Bias](https://doi.org/10.1523/ENEURO.0415-24.2024).  It defines a several types of bias that can get in the way of good practice!  
 <img src="Assets/img/BiasTable.png">  
