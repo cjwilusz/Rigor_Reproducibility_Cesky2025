@@ -1,3 +1,5 @@
 ### Data Management Plans for Graduate Students
 
-[Template](Assets/DMP_for_Grad_Students_IMG2025)
+[Template](Assets/DMP_for_grad_students_IMG2025.docx)
+[Slides](Assets/DataManagementPlans.pptx)
+
