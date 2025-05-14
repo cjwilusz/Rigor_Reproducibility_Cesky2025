@@ -12,4 +12,5 @@ This material was developed for students at the Czech Academy of Sciences with s
 [FairWizard](https://fair-wizard.com/) (access through CAS)  
 [Czech National Infrastructure for Biological Data](https://www.elixir-czech.cz/) (ELIXIR-CZ)  
 [Center for Open Science](https://www.cos.io/)  
+[10 Simple Rules for Digital Data Storage](https://doi.org/10.1371/journal.pcbi.1005097)
 
