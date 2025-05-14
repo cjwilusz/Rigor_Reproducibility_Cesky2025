@@ -7,3 +7,4 @@ This material is based on Brooke Anderson's videos and open source book chapter,
 [Tidy Data in Excel by Mara Sedlins](https://libguides.colostate.edu/data-donuts/tidy-data)  
 [10 Simple Rules for Digital Data Storage](https://doi.org/10.1371/journal.pcbi.1005097)  
 [Data Visualization Guide](https://data.europa.eu/apps/data-visualisation-guide/)  Explains how Tidy Data is important for easy visualization.  
+[Data Organization in Spreadsheets, Broman & Woo](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
